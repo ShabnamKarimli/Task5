@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    width: 80%;
+    margin: auto;
+    
+}
+.divup{
+    margin-top: 4rem;
+    line-height: 3rem;
+    
+}
+.divdown{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    height: 300px;
+    background-color: #20484f;
+    width: 23%;
+    border-radius: 2rem ;
+    text-align: left;
+    color:#dcf2ed ;
+    margin-top: 3rem;
+   
+}
+.divdown h1{
+    margin: 2rem 0 0 2rem;
+    font-size: 3rem;
+}
+.divdown small{
+    margin-left: 2rem;
+    
+}
+.divdown p{
+    margin-top: 10rem;
+    margin-left: 2rem;
+}
