@@ -1,0 +1,38 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.mainbox {
+    display: flex;
+    width: 85%;
+    margin: auto;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+
+.divleft {
+    width: 40%;
+}
+
+.divright {
+    width: 55%;
+    display: flex;
+flex-wrap: wrap;
+color: #1F474E;
+    
+   
+}
+.divright .smalldiv{
+    width: 48%;
+}
+
+.divleft button {
+    width: 6rem;
+    height: 2rem;
+    background-color: #20484F;
+    color: white;
+    border: 0.1rem solid #20484F ;
+    border-radius: 0.3rem;
+    font-size: 1rem;
+    
+}
