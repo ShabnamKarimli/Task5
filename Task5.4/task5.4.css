@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    width: 80%;
+    margin: auto;
+}
+.main {
+    height: 500px;
+    display: flex;
+
+
+}
+
+.divleft {
+    width: 50%;
+    margin-top: 3rem;
+}
+
+.divright {
+    width: 50%;
+    height: 500px;
+
+}
+
+.button {
+    width: 6.5rem;
+    height: 3rem;
+    background-color: #20484F;
+    font-size: 1rem;
+    color: white;
+    border-radius: 0.2rem;
+    border: 0rem;
+    margin-top: 7rem;
+}
+
+.box {
+    display: flex;
+    justify-content: space-around;
+    height: 90px;
+    margin-top: 1.4rem;
+
+}
+
+.box p,
+h4,
+h1 {
+    font-size: 20px;
+    color: #20484F;
+}
+.main hr{
+    margin-left: 4rem;
+    margin-bottom: 2rem;
+}
