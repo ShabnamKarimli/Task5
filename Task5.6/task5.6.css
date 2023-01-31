@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0%;
+}
+.down {
+    display: flex;
+    width: 90%;
+    margin-top: 3rem;
+    justify-content: space-around;
+}
+
+.section {
+    height: 700px ;
+    width: 100%;
+    margin: 0%;
+    background-color: #20484f;
+    color: white;
+    
+    
+}
+.main{
+    padding: 7rem 0rem 0rem 5rem;
+    color: white;
+}
+.up{
+    margin-bottom: 4rem;
+    margin-left: 38PX;
+}
+.down .box i{
+    font-size: 1.3rem;
+    background-color:#dcf2ed ;
+    border-radius: 0.3rem;
+    padding: 0.7rem;
+    color: #20484f;
+    margin-bottom: 3rem
+}
+.box p{
+    margin-top: 1rem;
+    color: #c7d1d3;
+    width: 200px;
+}
